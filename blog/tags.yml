@@ -168,3 +168,8 @@ observability:
   label: Observability
   permalink: /observability
   description: Metrics, tracing, and observability for llm-d deployments
+
+vllm:
+  label: vLLM
+  permalink: /vllm
+  description: vLLM inference engine integration and performance
